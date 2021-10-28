@@ -1,0 +1,7 @@
+{
+  "prefix": "visualizationIssue",
+  "paths": {
+    "visualizationIssue": "."
+  },
+  "translations": ["translations/ja-JP.json"]
+}
